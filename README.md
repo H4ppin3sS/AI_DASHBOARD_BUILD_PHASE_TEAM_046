@@ -72,6 +72,4 @@ python -m pytest -q
 
 - Ưu tiên CVAT for images, bounding box 2D.
 - Không có GT nên chỉ đưa ra cảnh báo cần review.
-- ZIP chỉ có XML vẫn có thể thống kê metadata, nhưng không xem được ảnh gốc.
 - CSS tùy chỉnh có thể cần cập nhật theo phiên bản Streamlit.
-- Chưa tích hợp các module GitHub cũ nguyên trạng; dự án này được **tổ chức theo phong cách repository GitHub đã cung cấp**, nhưng bảo toàn logic phiên bản ZIP mới.
